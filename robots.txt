@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.suisight.xyz/sitemap.xml
+Sitemap: https://sui.noasight.xyz/sitemap.xml
 
 # Crawl delay
 Crawl-delay: 1
